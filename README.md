@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-cybersecurity?utm_source=github&utm_medium=repository&utm_campaign=9781788992282"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09995_cover.png" alt="Hands-On Machine Learning for Cybersecurity" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-cybersecurity?utm_source=github&utm_medium=repository&utm_campaign=9781788992282), published by Packt.
+This is the code repository for [Hands-On Machine Learning for Cybersecurity](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-cybersecurity?utm_source=github&utm_medium=repository&utm_campaign=9781788992282), published by Packt.
 
 **Safeguard your system by making your machines intelligent using the Python ecosystem**
 
