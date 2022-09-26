@@ -68,3 +68,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+## Corrections and edits:
+1. There are missing data and resources due to always evolving web contents. Please take note of where you observe them and add in the README for others to be aware of.
+2. Chapter 2 has missing data files. These can be found [here](https://github.com/shalder/Hands-On-Machine-Learning-for-Cybersecurity/tree/master/Chapter02) and the file DDOS data is here (ddos_data)[https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security/files/5721272/DDoS_Data.zip)
